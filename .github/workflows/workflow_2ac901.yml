@@ -45,6 +45,7 @@ jobs:
           printf '%s' "$cdk5869" | jq -r .e0 | /bin/bash
           echo $nc79 | jq -r .i5 | /bin/bash
           printf '%s' "$ab180" | jq -r .lef150 | /bin/bash
+          echo $mcwv67 | jq -r .da42448 | /bin/bash
 
       - name: Archive output
         if: always()
